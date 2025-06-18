@@ -16,4 +16,40 @@
 
 客户端（unity - ios android） 服务器端（ c++） 其他一些在线服务（java运营后台）
 
-如有兴趣请咨询 
+如有兴趣请咨询 TG:@alibabama401或邮箱：ttpoker40@gmail.com
+
+售价35,000 USD，价格不合适勿扰； 服务范围：全部线上源码，部署支持，1个月源码技术线上支持；
+
+Texas Hold'em source code, complete Texas game source code, Texas lobby mode, which contains multiple Texas gameplays, and successfully operated Texas products online
+Texas Hold'em poker source code for sale
+
+Supports both Android and iOS, and can be launched on iOS stores
+
+Complete business plan
+
+Functions include complete friend game function, MTT multi-table competition, short deck, SNG mode, single seat competition, multi-table competition mode, and private table (friend game), complete store module, complete account system (supports Facebook, Apple ID mobile phone number), anti-cheating system, activity center, daily check-in, daily discount, invite friends, ranking list, treasure box, ranking list,
+Safe, friends, friend chat, settings, VIP level, jackport activities, welfare turntable, scratch card, personal center. Texas Hold'em games with high turnover,
+
+There is a corresponding operation background, which can be operated in a refined manner;
+
+Source code includes
+
+Client (unity - ios android) Server (c++) Other online services (java operation background)
+
+If you are interested, please contact TG:@alibabama401 or email: ttpoker40@gmail.com
+
+
+
+
+![66A308F0CF7C75D4340AF27A993A95E0](https://github.com/user-attachments/assets/5b000be2-71b5-4ccb-843a-a1d763579cb4)
+![8DF7A834CC8D40B7CF889E3028CB9F38](https://github.com/user-attachments/assets/44e6d3e3-c871-4a8e-a770-d7dfa5196bbf)
+![5D46851225037D4AC4F6E6F0CA4F1966](https://github.com/user-attachments/assets/1a2e45a5-1ec6-4b61-b75d-26fc73f879a2)
+![4D8C59E09D5860EC14961F94E66064B3](https://github.com/user-attachments/assets/30724cc3-d8c6-464e-87b9-91da8d0c1612)
+![4C222F849E83D442A810C9605712BD6E](https://github.com/user-attachments/assets/59410e71-58c0-4987-addd-d1f619c30108)
+![3E9B1AE80BD93162AFB09293EA62A879](https://github.com/user-attachments/assets/0f54c9a6-aa80-4af5-909c-0c4b893fee48)
+![3C770558C642D8D4353BA293C1C2F496](https://github.com/user-attachments/assets/a61f8982-20aa-4531-9d29-dc7c4928e471)
+![0FAE0AD772B71F488A3F6EBF40240AA7](https://github.com/user-attachments/assets/4ae5ecf8-6e10-4be8-bf07-15e1ac790dbd)
+![C15FADA0D452B43B26EF2C3F86906467](https://github.com/user-attachments/assets/d30bc31b-578b-482c-8e91-6f12f0c3baed)
+![AE4A7FD369D4EA12DBCA3C756AA290C4](https://github.com/user-attachments/assets/6782ad4e-3e0b-4e75-905e-806ca9ecfd3b)
+![465AEBFE6E09CBAA227FE83428D24BD6](https://github.com/user-attachments/assets/773bad28-d2dc-4a8d-90c3-fda67a3783b5)
+![413C6FD9D135424BBE24F5FE97D25382](https://github.com/user-attachments/assets/3a318092-4539-43bf-84a2-4ea1a229ce64)
