@@ -1,13 +1,13 @@
 # texas-holdem-poker_code  德州扑克源码，德州扑克源代码，德州游戏源码，德州游戏源码，完整的德州游戏项目，可以直接部署和商业运营
 德州扑克源码，完整的德州游戏源代码，德州大厅模式，里面有多个德州玩法，线上成功运营的德州产品
-德州扑克 poker 源码出售
+德州扑克 poker 源码
 
 支持安卓和ios两端运行，可以上线ios商店
 
 完整的商业方案
 
 功能包括，完整朋友局功能，MTT多桌比赛，短牌，SNG模式，单座赛，多桌赛模式，以及私人桌（朋友局），完整商店模块，完整账号体系（支持facebook ，apple id手机号 ），防作弊系统，有活动中心，每日签到，每日优惠，邀请好友，排行榜，百宝箱，排行榜，
-保险箱，好友，好友聊天，设置，VIP等级，jackport活动，福利转盘，刮刮乐，个人中心。高额流水的德州游戏，
+保险箱，好友，好友聊天，设置，VIP等级，jackport活动，福利转盘，刮刮乐，个人中心。
 
 有对应的运营后台，可以精细化运营；
 
@@ -18,25 +18,9 @@
 
 如有兴趣请咨询 TG:@alibabama401或邮箱：ttpoker40@gmail.com
 
-售价35,000 USD，价格不合适勿扰； 服务范围：全部线上源码，部署支持，1个月源码技术线上支持；
 
-Texas Hold'em source code, complete Texas game source code, Texas lobby mode, which contains multiple Texas gameplays, and successfully operated Texas products online
-Texas Hold'em poker source code for sale
 
-Supports both Android and iOS, and can be launched on iOS stores
 
-Complete business plan
-
-Functions include complete friend game function, MTT multi-table competition, short deck, SNG mode, single seat competition, multi-table competition mode, and private table (friend game), complete store module, complete account system (supports Facebook, Apple ID mobile phone number), anti-cheating system, activity center, daily check-in, daily discount, invite friends, ranking list, treasure box, ranking list,
-Safe, friends, friend chat, settings, VIP level, jackport activities, welfare turntable, scratch card, personal center. Texas Hold'em games with high turnover,
-
-There is a corresponding operation background, which can be operated in a refined manner;
-
-Source code includes
-
-Client (unity - ios android) Server (c++) Other online services (java operation background)
-
-If you are interested, please contact TG:@alibabama401 or email: ttpoker40@gmail.com
 
 
 
