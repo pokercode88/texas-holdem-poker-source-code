@@ -16,7 +16,7 @@
 
 客户端（unity - ios android） 服务器端（ c++） 其他一些在线服务（java运营后台）
 
-如有兴趣请咨询 TG:@alibabama401或邮箱：ttpoker40@gmail.com
+如有兴趣请咨询 TG:@alibabama401
 
 
 
