@@ -1,31 +1,85 @@
-# texas-holdem-poker_code  德州扑克源码，德州扑克源代码，德州游戏源码，德州游戏源码，完整的德州游戏项目，可以直接部署和商业运营;
-德州撲克，德撲源碼，德州源碼，德州俱樂部源碼，德州遊戲源碼，德州錦標賽，撲克源碼;
+<div align="center">
 
-德州扑克源码，完整的德州游戏源代码，德州大厅模式，里面有多个德州玩法，线上成功运营的德州产品
-德州扑克 poker 源码
+# 🃏 德州扑克完整源码 | 德州撲克完整源碼 | Texas Hold'em Complete Source Code
 
-支持安卓和ios两端运行，可以上线ios商店
+**Unity客户端 + C++服务端 + Java运营后台 | 线上成功运营**
 
-完整的商业方案
+[![Contact](https://img.shields.io/badge/联系-Telegram-blue.svg)](https://t.me/alibabama401)
 
-功能包括，完整朋友局功能，MTT多桌比赛，短牌，SNG模式，单座赛，多桌赛模式，以及私人桌（朋友局），完整商店模块，完整账号体系（支持facebook ，apple id手机号 ），防作弊系统，有活动中心，每日签到，每日优惠，邀请好友，排行榜，百宝箱，排行榜，
-保险箱，好友，好友聊天，设置，VIP等级，jackport活动，福利转盘，刮刮乐，个人中心。
+**简体中文 · 繁體中文 · English**
 
-有对应的运营后台，可以精细化运营；
+</div>
 
+---
 
-源码包括
+## 📖 产品简介 | 產品簡介 | Overview
 
-客户端（unity - ios android） 服务器端（ c++） 其他一些在线服务（java运营后台）
+| 语言 | 说明 |
+|:---|:---|
+| **简体中文** | 一套**线上成功运营**的德州扑克完整源码。包含**Unity客户端(iOS/Android) + C++服务端 + Java运营后台**。功能完整，可**直接部署和商业运营**。 |
+| **繁體中文** | 一套**線上成功運營**的德州撲克完整原始碼。包含**Unity客戶端(iOS/Android) + C++伺服器端 + Java運營後台**。功能完整，可**直接部署和商業運營**。 |
+| **English** | A **successfully online-operated** Texas Hold'em complete source code. Includes **Unity client (iOS/Android) + C++ server + Java admin panel**. Feature-complete, **ready for deployment and commercial operation**. |
 
-如有兴趣请咨询 TG:@alibabama401
+---
 
+## ✨ 核心功能 | Core Features
 
+| 功能模块 | 说明 |
+|:---|:---|
+| 👥 **朋友局** | 完整朋友局功能，私人桌 |
+| 🏆 **MTT** | 多桌锦标赛 |
+| ⚡ **SNG** | 单桌淘汰赛 |
+| ♦️ **短牌** | 去掉2-5张牌，节奏更快 |
+| 🎯 **单座赛** | 单人参赛模式 |
+| 🏅 **多桌赛** | 多桌同时进行 |
 
+---
 
+## 🛒 完整商业功能 | 完整商業功能 | Complete Business Features
 
+| 功能 | 说明 |
+|:---|:---|
+| 🏪 **商店模块** | 完整的游戏内商店 |
+| 👤 **账号体系** | 支持Facebook / Apple ID / 手机号登录 |
+| 📅 **活动中心** | 每日签到、每日优惠、邀请好友 |
+| 🎁 **福利系统** | 百宝箱、福利转盘、刮刮乐 |
+| 🏅 **排行榜** | 多维度排名系统 |
+| 💰 **保险箱** | 资金安全存储 |
+| 👥 **好友系统** | 好友添加、聊天互动 |
+| ⭐ **VIP等级** | 完整VIP权益体系 |
+| 🎰 **Jackpot活动** | 累积奖池活动 |
+| 👤 **个人中心** | 完整的用户资料管理 |
 
+---
 
+## 🛡️ 防作弊系统 | 防作弊系統 | Anti-Cheat System
+
+| 功能 | 说明 |
+|:---|:---|
+| 服务端验证 | 所有牌局逻辑服务端计算 |
+| 行为监控 | 异常行为实时监控 |
+| 牌局回放 | 完整牌局记录可追溯 |
+
+---
+
+## 🏗️ 技术架构 | Tech Stack
+
+| 模块 | 技术 |
+|:---|:---|
+| 客户端引擎 | Unity (C#) |
+| 客户端平台 | iOS + Android |
+| 服务端语言 | C++ |
+| 运营后台 | Java |
+| 数据库 | MySQL + Redis |
+
+---
+
+## 📸 界面截图 | Screenshots
+
+> **请将你的游戏截图拖拽到下方**（建议：游戏大厅、牌桌对战、运营后台各一张）
+
+| 游戏大厅 | 牌桌对战 | 运营后台 |
+|:---:|:---:|:---:|
 
 ![66A308F0CF7C75D4340AF27A993A95E0](https://github.com/user-attachments/assets/5b000be2-71b5-4ccb-843a-a1d763579cb4)
 ![8DF7A834CC8D40B7CF889E3028CB9F38](https://github.com/user-attachments/assets/44e6d3e3-c871-4a8e-a770-d7dfa5196bbf)
@@ -39,3 +93,60 @@
 ![AE4A7FD369D4EA12DBCA3C756AA290C4](https://github.com/user-attachments/assets/6782ad4e-3e0b-4e75-905e-806ca9ecfd3b)
 ![465AEBFE6E09CBAA227FE83428D24BD6](https://github.com/user-attachments/assets/773bad28-d2dc-4a8d-90c3-fda67a3783b5)
 ![413C6FD9D135424BBE24F5FE97D25382](https://github.com/user-attachments/assets/3a318092-4539-43bf-84a2-4ea1a229ce64)
+
+
+---
+
+## 📁 源码结构 | 源碼結構 | Source Code Structure
+
+
+---
+
+## 🚀 快速体验 | Quick Start
+
+### 获取完整源码
+
+如需获取**完整的德州扑克商业源码（客户端+服务端+运营后台）**，请联系：
+
+| 渠道 | 账号 |
+|:---|:---|
+| **Telegram** | @alibabama401 |
+| **Email** | ttpoker733@gmail.com |
+
+---
+
+## ❓ 常见问题 | FAQ
+
+**Q1：这套源码上线过吗？**  
+A：是的，线上成功运营的产品，非演示项目。
+
+**Q2：包含运营后台吗？**  
+A：包含。完整的Java运营后台，可精细化运营。
+
+**Q3：支持哪些登录方式？**  
+A：支持Facebook、Apple ID、手机号登录。
+
+**Q4：有哪些福利活动？**  
+A：每日签到、优惠、百宝箱、转盘、刮刮乐、Jackpot等。
+
+**Q5：可以二次开发吗？**  
+A：可以。源码支持功能扩展和 UI 定制。
+
+**Q6：提供部署服务吗？**  
+A：提供。购买后可远程协助部署。
+
+---
+
+<div align="center">
+
+**如果这个项目对你有帮助，欢迎点个 Star 支持一下！**  
+⭐️ **Star** ⭐️
+
+</div>
+
+
+
+
+
+
+
